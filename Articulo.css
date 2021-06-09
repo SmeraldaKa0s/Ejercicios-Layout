@@ -1,0 +1,20 @@
+a {
+    text-decoration: none;
+    color: #81D4D4;
+   }
+   
+   p { 
+    font-family: Raleway;
+    color: #3C3C3C
+   }
+   
+   h1 {
+   font-size: 100px;
+   font-family: Monserrat;
+   }
+   
+   span {
+   font-style: italic; 
+     font-weight: bold; 
+   }
+   
